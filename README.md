@@ -1,1 +1,1 @@
-# calculator
+This code holds the basic calculator operations in different functions and adds them to a dictionary. The user then calls one of the functions from the dictionary to use. After using the calculator, they are given the opportunity to keep calculating with the answer or start calculating again with different numbers. 
